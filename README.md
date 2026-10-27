@@ -85,7 +85,7 @@ I'm an agronomy undergraduate at Nanjing Agricultural University, building a dee
 
 </details>
 
-<sub>Activity assets update through this repository's [GitHub Actions](https://github.com/SiriZhao/SiriZhao/actions). The contribution trail uses [snk](https://github.com/Platane/snk); the static artwork above is shown until the first successful run.</sub>
+<sub>Activity assets are regenerated through this repository's [GitHub Actions](https://github.com/SiriZhao/SiriZhao/actions). The contribution trail uses [snk](https://github.com/Platane/snk) and stays secondary to the project notes above.</sub>
 
 ---
 
