@@ -1,12 +1,37 @@
 # Siri Zhao
 
-**Independent developer · software and research systems**
+**Independent Developer — Agentic AI, Software Engineering & Quantitative Systems**
 
-I'm an agronomy undergraduate at Nanjing Agricultural University, building a deeper foundation in computer science through real software projects. I work on desktop tools, quantitative research infrastructure, and learning workflows. Across them, I care about clear inputs, inspectable decisions, and honest boundaries.
+_Agronomy Major · Computer Science Minor_<br>
+_Nanjing Agricultural University_
 
-`Agronomy` · `Computer Science foundations` · `Software & research engineering`
+[About](#about) · [Areas of interest](#areas-of-interest) · [Selected work](#selected-work) · [Toolkit](#toolkit) · [Activity](#activity)
 
-[Selected work](#selected-work) · [Toolkit](#toolkit) · [Activity](#activity)
+## About
+
+Academic training at Nanjing Agricultural University combines a major in Agronomy with a formally admitted minor in Computer Science. Beyond the classroom, independent software development provides a practical foundation for exploring intelligent systems, research-oriented applications, and the engineering challenges that emerge at the intersection of disciplines.
+
+Particular attention goes to the engineering of **agentic AI**: the architecture of LLM-powered systems and the mechanisms through which language models interact with external tools, coordinate multi-stage workflows, and operate within well-defined constraints. Context management, orchestration, evaluation, and human oversight matter here because they distinguish a useful autonomous workflow from a convincing demonstration.
+
+Alongside applied AI, **quantitative research infrastructure** forms another substantial focus. Projects including **Alpha Mosaic** and **Meridian Alpha** explore financial data organization, analytical workflows, strategy evaluation, and paper-only decision-support systems. The emphasis rests on methodological transparency, reproducibility, and the integration of computational research with informed human judgment.
+
+**Python** constitutes the primary development language, complemented by **C/C++** and **JavaScript/TypeScript**. Current technical interests also extend toward software architecture, developer tooling, AI-assisted engineering workflows, and the integration of intelligent software with real-world systems — particularly automation, smart agriculture, and intelligent manufacturing.
+
+Underlying these pursuits is a consistent engineering principle: functionality alone is insufficient without an understanding of the assumptions, limitations, and trade-offs that shape a system's behavior. The objective is not simply to make software work, but to make its design intelligible, its outputs verifiable, and its evolution sustainable.
+
+## Areas of interest
+
+**Agentic systems**<br>
+Tool integration · Workflow orchestration · Context management
+
+**Software engineering**<br>
+Developer tooling · Automation · Software architecture
+
+**Quantitative systems**<br>
+Research infrastructure · Data pipelines · Strategy evaluation
+
+**Applied intelligence**<br>
+Intelligent systems · Smart agriculture · Industrial automation
 
 ---
 
@@ -22,7 +47,7 @@ I'm an agronomy undergraduate at Nanjing Agricultural University, building a dee
 
 **Document engineering for everyday work.** CleanText Studio turns copied or AI-assisted text into editable documents while retaining useful structure. A shared document tree powers preview and DOCX export; basic cleanup runs locally, with optional AI refinement initiated by the user.
 
-`Python` · `Desktop application` · `Document processing`<br>
+_Python · structure-aware parsing · DOCX/TXT export · local-first processing_<br>
 [Source](https://github.com/SiriZhao/CleanText-Studio) · [Latest release](https://github.com/SiriZhao/CleanText-Studio/releases/latest)
 
 ### 02 / Alpha Mosaic
@@ -35,9 +60,9 @@ I'm an agronomy undergraduate at Nanjing Agricultural University, building a dee
   <img src="assets/projects/alpha-light.svg" alt="Diagram of Alpha Mosaic's data validation, factor research, and report stages" width="720">
 </picture>
 
-**An evidence-first quantitative research workbench.** It discovers a bounded US equity universe, validates available market data, computes deterministic factors, and saves research reports. Historical replay is diagnostic and paper evaluation remains separate from live trading; the project makes no claim of demonstrated alpha.
+**An evidence-first quantitative research workbench.** It discovers a bounded US equity universe, validates available market data, computes deterministic factors, and saves research reports. Provider health, evidence, factor calculations, and report generation remain explicit; historical replay is diagnostic and paper evaluation stays separate from live trading. The project makes no claim of demonstrated alpha.
 
-`Python` · `OpenBB integration` · `Read-only MCP`<br>
+_Python · deterministic factors · evidence-gated evaluation · read-only MCP_<br>
 [Source](https://github.com/SiriZhao/alpha-mosaic) · [Architecture](https://github.com/SiriZhao/alpha-mosaic/blob/main/ARCHITECTURE.md)
 
 ### 03 / Meridian Alpha
@@ -50,9 +75,9 @@ I'm an agronomy undergraduate at Nanjing Agricultural University, building a dee
   <img src="assets/projects/meridian-light.svg" alt="Diagram of Meridian Alpha's evidence, decision, risk, and paper-ledger gates" width="720">
 </picture>
 
-**Decision support with explicit gates.** Meridian connects research evidence to deterministic risk checks, status-aware reports, and a persistent paper ledger. It is an independent project from Alpha Mosaic. Its current boundary is `PAPER_ONLY`: broker orders and real-account execution are disabled.
+**Decision support with explicit gates.** Meridian connects research evidence to deterministic risk checks, status-aware reports, and a persistent paper ledger. Its stateful pipeline separates data, research, decision, risk, and paper stages. It is an independent project from Alpha Mosaic. Its current boundary is `PAPER_ONLY`: broker orders and real-account execution are disabled.
 
-`Python` · `Stateful workflows` · `Audit trails`<br>
+_Python · stateful workflows · risk gates · paper ledger_<br>
 [Source](https://github.com/SiriZhao/meridian-alpha) · [System boundaries](https://github.com/SiriZhao/meridian-alpha/blob/main/docs/adr/ADR-001-system-boundaries.md)
 
 ## Further work
@@ -63,8 +88,9 @@ I'm an agronomy undergraduate at Nanjing Agricultural University, building a dee
 
 ## Toolkit
 
-**Built with** — Python, TypeScript, FastAPI, React, GitHub Actions, SQLite.<br>
-**Exploring** — agent tool interfaces, reliable LLM applications, quantitative research methods, and computer science foundations.
+**Languages** — Python · C · C++ · JavaScript · TypeScript<br>
+**Development** — Git · GitHub · GitHub Actions · FastAPI · React · Docker · SQLite<br>
+**AI & research** — LLM applications · agent workflows · tool integration · research automation · data processing · quantitative research
 
 ## Activity
 
