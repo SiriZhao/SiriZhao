@@ -30,7 +30,13 @@ def fetch_repositories() -> list[dict]:
             batch = json.load(response)
         if not isinstance(batch, list):
             raise ValueError("GitHub did not return a repository list")
-        repositories.extend(repo for repo in batch if not repo.get("fork") and not repo.get("private"))
+        repositories.extend(
+            repo
+            for repo in batch
+            if not repo.get("fork")
+            and not repo.get("private")
+            and repo.get("name") != OWNER
+        )
         if len(batch) < 100:
             break
         page += 1
