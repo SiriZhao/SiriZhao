@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="184" viewBox="0 0 720 184" role="img" aria-labelledby="title desc">
+<title id="title">Meridian Alpha decision stages</title><desc id="desc">Data, research, decision, and risk gates precede the paper ledger. Broker execution is disabled.</desc>
+<rect x="0.5" y="0.5" width="719" height="183" fill="#f8fafb" stroke="#c9d4dc"/>
+<text x="24" y="31" fill="#60717f" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="11" font-weight="600" letter-spacing="1.5">MERIDIAN ALPHA</text>
+<text x="545" y="31" fill="#60717f" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="10" font-weight="500" letter-spacing="1.1">DECISION SYSTEM</text>
+<line x1="24" y1="43" x2="696" y2="43" stroke="#c9d4dc"/>
+<rect x="24" y="66" width="118" height="46" fill="#e9eef1" stroke="#c9d4dc"/>
+<text x="36" y="94" fill="#263440" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="11" font-weight="600" letter-spacing="0.8">DATA</text>
+<path d="M143 89h17m-6-5 6 5-6 5" fill="none" stroke="#55758b" stroke-width="1.25"/>
+<rect x="161" y="66" width="118" height="46" fill="#e9eef1" stroke="#c9d4dc"/>
+<text x="173" y="94" fill="#263440" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="11" font-weight="600" letter-spacing="0.8">RESEARCH</text>
+<path d="M280 89h17m-6-5 6 5-6 5" fill="none" stroke="#55758b" stroke-width="1.25"/>
+<rect x="298" y="66" width="118" height="46" fill="#e9eef1" stroke="#c9d4dc"/>
+<text x="310" y="94" fill="#263440" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="11" font-weight="600" letter-spacing="0.8">DECISION</text>
+<path d="M417 89h17m-6-5 6 5-6 5" fill="none" stroke="#55758b" stroke-width="1.25"/>
+<rect x="435" y="66" width="118" height="46" fill="#e9eef1" stroke="#c9d4dc"/>
+<text x="447" y="94" fill="#263440" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="11" font-weight="600" letter-spacing="0.8">RISK</text>
+<path d="M554 89h17m-6-5 6 5-6 5" fill="none" stroke="#55758b" stroke-width="1.25"/>
+<rect x="572" y="66" width="118" height="46" fill="#e9eef1" stroke="#c9d4dc"/>
+<text x="584" y="94" fill="#263440" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="11" font-weight="600" letter-spacing="0.8">PAPER</text>
+<line x1="24" y1="133" x2="696" y2="133" stroke="#c9d4dc"/>
+<text x="24" y="158" fill="#60717f" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="12" font-weight="400" letter-spacing="0">Evidence checks</text>
+<text x="207" y="158" fill="#60717f" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="12" font-weight="400" letter-spacing="0">Explicit states</text>
+<text x="394" y="158" fill="#60717f" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="12" font-weight="400" letter-spacing="0">Deterministic gates</text>
+<text x="602" y="158" fill="#55758b" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="10" font-weight="600" letter-spacing="1">PAPER_ONLY</text>
+</svg>

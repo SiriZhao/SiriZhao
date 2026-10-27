@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="184" viewBox="0 0 720 184" role="img" aria-labelledby="title desc">
+<title id="title">Alpha Mosaic research stages</title><desc id="desc">Validated inputs flow into deterministic factors and documented paper diagnostics; no broker execution.</desc>
+<rect x="0.5" y="0.5" width="719" height="183" fill="#1a232b" stroke="#4a5a67"/>
+<text x="24" y="31" fill="#a1b0bc" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="11" font-weight="600" letter-spacing="1.5">ALPHA MOSAIC</text>
+<text x="530" y="31" fill="#a1b0bc" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="10" font-weight="500" letter-spacing="1.1">RESEARCH WORKBENCH</text>
+<line x1="24" y1="43" x2="696" y2="43" stroke="#4a5a67"/>
+<text x="24" y="76" fill="#a0bbcc" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="12" font-weight="600" letter-spacing="0">01</text>
+<text x="57" y="76" fill="#dce4e9" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="15" font-weight="600" letter-spacing="0">Collect &amp; validate</text>
+<text x="57" y="101" fill="#a1b0bc" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="12" font-weight="400" letter-spacing="0">Market history</text>
+<text x="57" y="121" fill="#a1b0bc" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="12" font-weight="400" letter-spacing="0">Provider status</text>
+<text x="265" y="76" fill="#a0bbcc" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="12" font-weight="600" letter-spacing="0">02</text>
+<text x="298" y="76" fill="#dce4e9" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="15" font-weight="600" letter-spacing="0">Calculate</text>
+<text x="298" y="101" fill="#a1b0bc" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="12" font-weight="400" letter-spacing="0">Deterministic factors</text>
+<text x="298" y="121" fill="#a1b0bc" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="12" font-weight="400" letter-spacing="0">Risk filters</text>
+<text x="500" y="76" fill="#a0bbcc" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="12" font-weight="600" letter-spacing="0">03</text>
+<text x="533" y="76" fill="#dce4e9" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="15" font-weight="600" letter-spacing="0">Document</text>
+<text x="533" y="101" fill="#a1b0bc" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="12" font-weight="400" letter-spacing="0">Evidence bundles</text>
+<text x="533" y="121" fill="#a1b0bc" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="12" font-weight="400" letter-spacing="0">Paper diagnostics</text>
+<path d="M225 94h24m-8-6 8 6-8 6M460 94h24m-8-6 8 6-8 6" fill="none" stroke="#a0bbcc" stroke-width="1.4"/>
+<line x1="24" y1="145" x2="696" y2="145" stroke="#4a5a67"/>
+<text x="24" y="166" fill="#a1b0bc" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="12" font-weight="400" letter-spacing="0">Evidence before a conclusion</text>
+<text x="513" y="166" fill="#a0bbcc" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="10" font-weight="600" letter-spacing="1">NO BROKER EXECUTION</text>
+</svg>
