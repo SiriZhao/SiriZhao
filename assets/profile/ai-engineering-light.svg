@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 210" role="img" aria-labelledby="title desc">
+  <title id="title">AI-assisted engineering workflow</title>
+  <desc id="desc">Requirements become architecture, agent-assisted implementation, testing, review, deployment and iteration.</desc>
+  <rect width="1200" height="210" rx="18" fill="#f7fafc" stroke="#d9e5ee"/>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif"><text x="34" y="38" font-size="13" font-weight="700" letter-spacing="2.2" fill="#2563a6">AI-ASSISTED ENGINEERING</text></g>
+  <g fill="none" stroke="#89abc4" stroke-width="3"><path d="M166 111H199M349 111H382M532 111H565M715 111H748M898 111H931"/><path d="M189 103l10 8-10 8M372 103l10 8-10 8M555 103l10 8-10 8M738 103l10 8-10 8M921 103l10 8-10 8"/></g>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif" text-anchor="middle">
+    <g><rect x="28" y="75" width="138" height="72" rx="10" fill="#e6f2fb" stroke="#4c8abe" stroke-width="2"/><text x="97" y="104" font-size="14" font-weight="700" fill="#1e527f">Requirements</text><text x="97" y="126" font-size="11" fill="#557086">specification</text></g>
+    <g><rect x="211" y="75" width="138" height="72" rx="10" fill="#edf6f3" stroke="#4b9a86" stroke-width="2"/><text x="280" y="104" font-size="14" font-weight="700" fill="#286e5e">Architecture</text><text x="280" y="126" font-size="11" fill="#55786e">boundaries</text></g>
+    <g><rect x="394" y="75" width="138" height="72" rx="10" fill="#eef0fb" stroke="#7a79bd" stroke-width="2"/><text x="463" y="104" font-size="14" font-weight="700" fill="#555399">Implementation</text><text x="463" y="126" font-size="11" fill="#66678c">agent-assisted</text></g>
+    <g><rect x="577" y="75" width="138" height="72" rx="10" fill="#f4edf9" stroke="#a16cc1" stroke-width="2"/><text x="646" y="104" font-size="14" font-weight="700" fill="#794e98">Test + review</text><text x="646" y="126" font-size="11" fill="#795f87">regression</text></g>
+    <g><rect x="760" y="75" width="138" height="72" rx="10" fill="#fff3e1" stroke="#d39439" stroke-width="2"/><text x="829" y="104" font-size="14" font-weight="700" fill="#93621b">Deployment</text><text x="829" y="126" font-size="11" fill="#876a3b">release</text></g>
+    <g><rect x="943" y="75" width="138" height="72" rx="10" fill="#e9eff3" stroke="#607d92" stroke-width="2"/><text x="1012" y="104" font-size="14" font-weight="700" fill="#3f5b70">Iteration</text><text x="1012" y="126" font-size="11" fill="#597083">human decision</text></g>
+  </g>
+</svg>
+

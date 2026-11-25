@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Siri Zhao — applied AI and intelligent systems</title>
+  <desc id="desc">A graphite technical profile banner with a systems graph connecting AI, computer vision, edge computing and software engineering.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#1c3045" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="320" rx="20" fill="#0b1420"/>
+  <rect width="1200" height="320" rx="20" fill="url(#grid)" opacity=".8"/>
+  <rect x="0" y="0" width="10" height="320" rx="5" fill="#78b5e8"/>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <text x="62" y="78" font-size="18" font-weight="700" letter-spacing="3" fill="#8fc7f2">SIRI ZHAO / ENGINEERING PORTFOLIO</text>
+    <text x="62" y="144" font-size="52" font-weight="750" fill="#f1f6fb">Independent Developer</text>
+    <text x="62" y="184" font-size="23" fill="#b4c9dc">Applied AI · Software Engineering · Intelligent Systems</text>
+    <text x="62" y="232" font-size="16" fill="#9db4c8">Agentic AI  ·  Computer Vision  ·  Edge AI  ·  Embedded Systems  ·  Quantitative Research</text>
+    <text x="62" y="276" font-size="15" fill="#8ea6bb">Nanjing Agricultural University · Agronomy major · Computer Science and Technology minor</text>
+  </g>
+  <g fill="none" stroke="#557f9f" stroke-width="2" opacity=".95">
+    <path d="M890 72L1020 112L1118 74"/>
+    <path d="M890 72L930 208L1040 236L1118 74"/>
+    <path d="M930 208L1040 128L1118 74"/>
+    <path d="M1040 128L1040 236"/>
+  </g>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif" text-anchor="middle">
+    <g><circle cx="890" cy="72" r="31" fill="#163552" stroke="#78b5e8" stroke-width="3"/><text x="890" y="78" font-size="15" font-weight="700" fill="#cce8ff">AI</text></g>
+    <g><circle cx="1020" cy="112" r="31" fill="#153b38" stroke="#66c6b2" stroke-width="3"/><text x="1020" y="118" font-size="15" font-weight="700" fill="#c7f5ea">CV</text></g>
+    <g><circle cx="1118" cy="74" r="31" fill="#2b2341" stroke="#a28bd8" stroke-width="3"/><text x="1118" y="80" font-size="14" font-weight="700" fill="#e3d9ff">EDGE</text></g>
+    <g><circle cx="1040" cy="236" r="31" fill="#44331a" stroke="#e3b35d" stroke-width="3"/><text x="1040" y="242" font-size="13" font-weight="700" fill="#ffe4ad">SYSTEMS</text></g>
+    <g><circle cx="930" cy="208" r="31" fill="#243444" stroke="#8ea6bb" stroke-width="3"/><text x="930" y="214" font-size="14" font-weight="700" fill="#d7e4ef">BUILD</text></g>
+  </g>
+</svg>
+
